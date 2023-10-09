@@ -32,6 +32,8 @@ def click_listener():
         
         if left_button_state < 0:
             x, y = win32api.GetCursorPos()
+            # name = input("Give a name to this soundboard")
+            # input("Save or try again?")
             print(f"Left-clicked at position: ({x}, {y})")
 
         sleep(0.1)

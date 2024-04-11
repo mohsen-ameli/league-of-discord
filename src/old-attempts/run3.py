@@ -1,3 +1,5 @@
+# Half-ass attempt i know :0
+
 from pynput.keyboard import Key, Listener
 from playsound import playsound
 

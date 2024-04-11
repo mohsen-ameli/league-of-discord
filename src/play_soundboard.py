@@ -1,6 +1,6 @@
 # Made by me, NoobMoe
-# This script will listen for a keyboard click of "r" and will click on a series
-# of button using an invisible cursor, to play a sound on th soundboard of discord.
+# This script will listen for a keyboard click of "r". Then it will click a series
+# of buttons (using an invisible cursor) in order to play the desired sound on discord's soundboard.
 
 import win32.win32gui as win32gui
 import win32.win32api as win32api
